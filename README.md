@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--lint disable no-literal-urls-->
 <p align="center">
   <a href="https://nodejs.org/">
@@ -637,3 +638,6 @@ Other keys used to sign some previous releases:
 [Strategic Initiatives]: https://github.com/nodejs/TSC/blob/master/Strategic-Initiatives.md
 [Technical values and prioritization]: doc/guides/technical-values.md
 [Working Groups]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
+=======
+# Ewar
+>>>>>>> 0710a676a3e7d2d97e9e399e854ec80d5182c182
