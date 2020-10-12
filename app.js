@@ -12,8 +12,3 @@ http.createServer(function (request, response) {
 
 // Console will print the message
 console.log('Server running at http://0.0.0.0:8080/');
-process.on('SIGTERM', () => {
-server.close(() => {
-	console.log('Process Terminated')
-})
-})
